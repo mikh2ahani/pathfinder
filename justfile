@@ -20,6 +20,6 @@ dep-sort:
     cargo sort --check --workspace
 
 alias b := build 
-alias t := test 
+alias t := test2 
 alias c := check 
 alias f := fmt 
